@@ -35,7 +35,7 @@ function exec_eXternal() {
   return $?
 }
 
-# also some one-liners for data manipulation
+# some one-liners for data manipulation
 
 function _csv_field() {
   local i=${1}-1 ; shift ; local a=(${@//\;/ }) ; builtin echo "${a[$i]}"
