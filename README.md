@@ -1,13 +1,10 @@
 # on-hold-for-a-while
 
-after a few thoughts about it, i opted for the following, @ june 3, 2020 -
+after a few concerns about it, i opted put my projects "ON HOLD", @ june 3, 2020 -
 
-- everything *public* - has been removed from this account -
-- asap, a few code & snippets to be published -
-- check it back, soon !
+- here you ill find a feww interesting snippets, related to that !
+- so, check it back, soon.
 
-
-best -
-
+best,
 /federico
 
