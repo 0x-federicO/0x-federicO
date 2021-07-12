@@ -15,7 +15,7 @@ alias null='null_1 | null_2'
 # wrappers around useful lines of code
 ################################################################################
 
-function in_place_uniq() {
+function _in_place_uniq() {
   local path=${2:-$1}
   local extra_options=${1:-}
   if [ ! -r "$path" ] ; then return -1; fi
@@ -26,7 +26,7 @@ function in_place_uniq() {
   return 0
 }
 
-function exec_eXternal() {
+function _eXternal() {
   if [ -z "$@" ]; then return -1; fi
 
   echo "[INFO] eXternal command: $@"
@@ -35,7 +35,7 @@ function exec_eXternal() {
   return $?
 }
 
-# some one-liners for data manipulation
+# here, a few one-liners for data manipulation
 
 function _csv_field() {
   local i=${1}-1 ; shift ; local a=(${@//\;/ }) ; builtin echo "${a[$i]}"
