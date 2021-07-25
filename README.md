@@ -1,13 +1,17 @@
-# on-hold-for-a-while
 
-after a few concerns about it, i opted put my projects "ON HOLD", @ june 3, 2020 -
+# 👨🏻‍💻
 
-+ here you will find a few interesting snippets, related to that !
-+ so, check it back, soon.
+Hi there, here's a software & data engineer dev based in Italy-
 
+[![Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EU-Italy.svg/285px-EU-Italy.svg.png)](https://en.wikipedia.org/wiki/Italy)
 
-[Public Gists](https://gist.github.com/narji-0x)
+There were actually good plans to publish some interesting _CLI_ projects of mine over here,
+based on some widely used command line GNU tools, anyway this *sadly* means "**on/hold/for/a/while**" -
+
+check it back, soon in the future !
+
+[My Gists](https://gist.github.com/narji-0x) 🏮
+
+first edited @ june 3, 2020 -
 
 cheers!
-/federico
-
