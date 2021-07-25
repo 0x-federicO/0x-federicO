@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻
 
-Hi there, here's a software & data engineer dev based in Italy-
+Hi there, here's a software dev & data engineer dev based in Italy-
 
 [![Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EU-Italy.svg/285px-EU-Italy.svg.png)](https://en.wikipedia.org/wiki/Italy)
 
