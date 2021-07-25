@@ -1,16 +1,16 @@
 
 # 👨🏻‍💻
 
-Hi there, here's a software dev & data engineer dev based in Italy-
+Hi there, here's a "_software dev_" based in Torino, Italy-
 
-[![Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/EU-Italy.svg/285px-EU-Italy.svg.png)](https://en.wikipedia.org/wiki/Italy)
+[![Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Turin_at_sunset.jpg/320px-Turin_at_sunset.jpg)](https://en.wikipedia.org/wiki/Turin)
 
-There were actually _good intentions_ to publish some interesting _CLI_ projects of mine over here,
-based on some widely used command line GNU tools, anyway this *sadly* means "**on/hold/for/a/while**" -
+There were actually _good intentions_ to make public some _CLI_ projects of mine over here,
+based on some command line GNU tools, anyway this *sadly* means "**on/hold/for/a/while**" -
 
-check it back, soon in the future !
+So, check it back, every now and then !
 
-[My Gists](https://gist.github.com/narji-0x) 🏮
+[Gists](https://gist.github.com/narji-0x) 🏮
 
 first edited @ june 3, 2020 -
 
