@@ -5,8 +5,8 @@ Hi there, here's a "_software dev_" based in Torino, Italy-
 
 [![Italy](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Turin_at_sunset.jpg/320px-Turin_at_sunset.jpg)](https://en.wikipedia.org/wiki/Turin)
 
-There were actually _good intentions_ to publish a few "CLI" projects of mine over here,
-based on command line GNU tools, anyway this *sadly* means "**on/hold/for/a/while**" -
+There were actually _good plans_ to publish a few "CLI" projects of mine over here,
+based on command line GNU tools, anyway this *sadly* means "**on-hold-for-a-while**" -
 
 So, check it back, every now and then !
 
