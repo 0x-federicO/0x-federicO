@@ -11,9 +11,14 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 ## About
 
-There were actually _good intentions_ to publish a few projects/artifacts of mine over here (eg. CLI apps), anyway this *sadly* means "**on-hold-for-a-while**" -
+Actually, there were _good intentions_ to publish a few projects/artifacts over here (eg. CLI apps), anyway this sadly means "*on-hold-for-a-while*" -
 
 So, check it back, every now and then !
+
+#### Professional interest
+
+* front-end UI/UX - fullstack, python/js -
+* Rust/go
 
 [Gists](https://gist.github.com/narji-0x) 🏮
 
