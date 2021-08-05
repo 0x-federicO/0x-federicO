@@ -11,7 +11,17 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 ## About
 
-Actually, there were _good intentions_ to publish a few projects/artifacts over here (eg. CLI apps), anyway this sadly means "*on-hold-for-a-while*" -
+Working in the IT industry mostly a programmer since around 2k.
+
+I applied a few programming languages, including php, Java, and Scala, I have a specialty in Perl (once! and for data/logs analytics) and JS (front-end/fullstack).
+
+I had the chance to work on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech. duties.
+
+Neitherless, I continue learning new things, and I am keen on Agile/Lean methodologies.
+
+#### Here
+
+Actually, there were _good intentions_ to publish a few projects/artifacts over here (eg. CLI tools/apps), anyway this sadly means "*on-hold-for-a-while*" -
 
 So, check it back, every now and then !
 
