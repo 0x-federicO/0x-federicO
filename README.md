@@ -11,7 +11,7 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 ## About
 
-Working in the IT industry mostly a programmer since around 2k.
+Working in the IT industry, mostly as programmer/dev since around 2k.
 
 I applied a few programming languages, including php, Java, and Scala, I have a specialty in Perl (once! and for data/logs analytics) and JS (front-end/fullstack).
 
