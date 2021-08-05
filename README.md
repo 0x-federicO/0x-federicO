@@ -17,7 +17,7 @@ I applied a few programming languages, including php, Java, scala, Perl (once! a
 
 I had the chance to work on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech. duties.
 
-Neitherless, I continue learning new things, and I am keen on Agile/Lean methodologies.
+Netherless, I continue learning new things, and I am keen on Agile/Lean methodologies.
 
 #### Here
 
