@@ -16,17 +16,17 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 ## About
 
-Working in the IT industry, mostly as programmer/dev since around 2k.
+Working in the IT/CS industry, mostly as fullstack web dev (+ architect) since around 2k.
 
-I applied a few programming languages, including php, Java, scala, Perl (once! and for data/logs analytics) and JS (front-end/fullstack).
+I actually applied a few programming languages, including php, Java, scala, Perl (once! and for data/logs analytics) and JS (front-end/fullstack).
 
-I had the chance to work on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech. duties.
+I had the chance to work on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech- duties.
 
-Nevertheless, I continue learning new things, and I am keen on Agile/Lean methodologies.
+Nevertheless, I *do* continue learning new things, and I am keen on Agile/Lean methodologies.
 
-#### Here
+#### Here (side projects)
 
-Actually, there were _good intentions_ to publish a few projects/artifacts over here (eg. CLI tools/apps), anyway this sadly means "*on-hold-for-a-while*" -
+Actually, there were _evolving intentions_ to publish a few projects/artifacts over here (eg. CLI tools/apps), anyway this sadly means "*on-hold-for-a-while*" -
 
 So, check it back, every now and then !
 
