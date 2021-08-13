@@ -26,7 +26,7 @@ Nevertheless, I *do* continue learning new things, and I am keen on Agile/Lean m
 
 #### Here (side projects)
 
-Actually, there were _evolving intentions_ to publish a few projects/artifacts over here (eg. CLI tools/apps), anyway this sadly means "*on-hold-for-a-while*" -
+Actually, there were "_evolving intentions_" to publish a few projects/artifacts over here (eg. CLI tools/apps), sadly means "*on-hold-for-a-while*" -
 
 So, check it back, every now and then !
 
