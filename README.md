@@ -24,17 +24,6 @@ I had the chance to work on 24x7, devOps (j2ee) and big-data projects @ work, so
 
 Nevertheless, I *do* continue learning new things, and I am keen on Agile/Lean methodologies.
 
-#### Here (side projects)
-
-Actually, there were "_evolving intentions_" to publish a few projects/artifacts over here (eg. CLI tools/apps), sadly means "*on-hold-for-a-while*" -
-
-So, check it back, every now and then !
-
-#### Professional interest
-
-* front-end UI (+UX) - fullstack, python/js -
-* Rust/go
-
 [Gists](https://gist.github.com/narji-0x) 🏮
 
 first edited @ june 3, 2020 -
