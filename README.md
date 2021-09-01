@@ -18,9 +18,9 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 Working in the IT/CS industry, mostly as fullstack web dev (+ architect) since around 2k.
 
-I actually applied a few programming languages, including php, Java, scala, Perl (once! and for data/logs analytics) and JS (front-end/fullstack).
+I actually applied a few programming languages, eg. php, Java, scala, Perl (once! and for data/logs analytics) and JS (front-end/fullstack).
 
-I had the chance to work on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech- duties.
+I had the chance to be involved on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech- duties.
 
 Nevertheless, I *do* continue learning new things, and I am keen on Agile/Lean methodologies.
 
