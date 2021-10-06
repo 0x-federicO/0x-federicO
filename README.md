@@ -1,6 +1,6 @@
 Hi!
 
-Here's a _Sr. Software Dev_ based in Torino - Italy, working in the IT industry since a couple decades (2k), at first for a european-wide startup, delivering music over Internet.
+Here's a _Sr. Software Dev_ based in Torino - Italy, working in the IT industry since a couple decades (2k), at first for a i18n startup, delivering music over Internet.
 
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="180" /></a>
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/74/0b/11/740b112f5fd01acea8d1e87a6788ac14.jpg" height="180" /></a>
