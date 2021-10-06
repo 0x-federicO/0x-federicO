@@ -16,13 +16,13 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 ## About
 
-Working in the IT/CS industry, mostly as fullstack web dev (+ architect) since around 2k.
+Working in the IT/CS industry, usually as fullstack web dev (+ architect) since around 2k.
 
-I applied a few programming languages, eg. php, Java, scala, Perl (once! and for data/logs analytics) and js/es6+ (front-end/fullstack).
+I like and applied a few programming languages, eg. php, Java, scala, python, Perl (once! and for data/logs analytics) and js/es6+ (front-end/fullstack).
 
-I had the chance to be involved on 24x7, devOps (j2ee) and big-data projects @ work, so I am used to take charge of diverse tech- duties.
+Skills: 24x7, devOps (j2ee) and big-data projects
 
-Nevertheless, I *do* continue learning new things, and I am keen on Agile/Lean methodologies.
+I like to learning new tech. related things, and I am keen on Agile/Lean methodologies.
 
 [Gists](https://gist.github.com/narji-0x) 🏮
 
