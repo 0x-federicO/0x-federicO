@@ -16,9 +16,9 @@ Hi there, here's a _software dev_ based in Torino, Italy-
 
 ## About
 
-Working in the IT/CS industry, usually as fullstack web dev (+ architect) since around 2k.
+Working in the IT/CS industry, mostly as "fullstack web dev" since around 2k.
 
-I like and applied a few programming languages, eg. php, Java, scala, python, Perl (once! and for data/logs analytics) and js/es6+ (front-end/fullstack).
+I like (and applied @ work) a few programming languages, eg. php, Java, scala, python, Perl (once! and for data/logs analytics) and js/es6+ (front-end/fullstack).
 
 Skills: 24x7, devOps (j2ee) and big-data projects
 
