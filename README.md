@@ -15,7 +15,7 @@ Here's a _Sr. Software Dev_ based in Torino - Italy, working in the IT industry 
 
 ### About
 
-I am basically a fullstack web dev - _plus_ wide IT architecture skills, keen on Open source, _especially_ GNU/Linux - 
+Mostly a fullstack web dev - _plus_ wide IT architecture skills, keen on Open source, _especially_ GNU/Linux - 
 
 I have a specialty in (and applied) a lot of programming languages, eg: php, java, Scala, perl (long ago! OO, logs analytics, functional), python (web/data) and js/es6+.
 
