@@ -3,11 +3,10 @@
 
 Hi there, here's a _software dev_ based in Torino, Italy-
 
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/97/c0/ba/97c0ba9a4bceb1a4e6c8622da10a3e0c.jpg" height="190" /></a>
+<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/74/0b/11/740b112f5fd01acea8d1e87a6788ac14.jpg" height="190" /></a>
 
 <!--
-
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/74/0b/11/740b112f5fd01acea8d1e87a6788ac14.jpg" height="190" /></a>
+<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/97/c0/ba/97c0ba9a4bceb1a4e6c8622da10a3e0c.jpg" height="190" /></a>
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/ee/5d/3f/ee5d3f63dc0aa310042dfa02012bb42c.jpg" height="190" /></a>
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="190" /></a>
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/c6/e3/a7/c6e3a7a69777f106b6ae1c1ce027a655.jpg" height="190" /></a>
