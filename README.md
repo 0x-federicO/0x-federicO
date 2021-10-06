@@ -26,7 +26,7 @@ Skills: 24x7, devOps (j2ee) and big-data projects
 
 I like learning new tech. related things, and I am keen on Agile/Lean methodologies.
 
-[Gists](https://gist.github.com/narji-0x) 🏮
+[Gists](https://gist.github.com/federico-cagliero) 🏮
 
 first edited @ june 3, 2020 -
 
