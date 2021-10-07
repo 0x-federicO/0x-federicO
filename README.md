@@ -4,7 +4,7 @@ Here's a _fullstack web dev_ based in Torino - Italy
 
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="180" /></a>
 
-I began working in the IT/CS industry almost two decades ago, focused on software engineering, http/Web and DevOps- by mostly using java (jvm) and functional/dynamic languages, eg. python, js and Php -
+I _began_ working in the IT/CS industry almost two decades ago, focused on software engineering, http/Web and DevOps- by mostly using java (jee/jvm) and functional/dynamic languages, eg. python, js and Php -
 
 I like learning new tech. things, and I am keen on Agile/Lean methodologies, these days Go, rust and Clj -
 
