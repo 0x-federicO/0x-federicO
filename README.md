@@ -6,7 +6,7 @@ Here's a _fullstack web dev_ based in Torino - Italy
 
 I am _focused_ on software engineering, http/Web and DevOps, since more than two decades -
 
-I have been _mostly_ using java (jee/jvm) and functional/dynamic languages, eg. python, js and Php - as well as perl (oo, functional) + shells !
+I have been mostly using java (jee/jvm) and functional/dynamic languages, eg. python, js and Php - as well as perl (oo, functional) + shells !
 
 I also have some very _specific_ knowledge about data engineering and big-data tech -
 
