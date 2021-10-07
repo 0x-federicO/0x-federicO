@@ -4,12 +4,6 @@ Here's a _fullstack web dev_ based in Torino - Italy
 
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="180" /></a>
 
-I am focused on software engineering, http/Web and DevOps, since more than two decades -
-
-I have been mostly using java (jee/jvm) and functional/dynamic languages, eg. python, js and Php - as well as perl (oo, functional) + shells !
-
-I also have some very _specific_ knowledge about data engineering and big-data tech -
-
 I like learning new tech. things, and I am keen on Agile/Lean methodologies, these days Go, rust and Clj -
 
 [Gists](https://gist.github.com/federico-cagliero) 🏮
