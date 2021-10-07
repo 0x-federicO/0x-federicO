@@ -4,7 +4,7 @@ Here's a _fullstack web dev_ based in Torino - Italy
 
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="180" /></a>
 
-I like learning new tech. things, and I am keen on Agile/Lean methodologies, these days Go, rust and Clj -
+I like learning new tech. things, and I am keen on Agile/Lean methodologies, these days I have a _focus_ on Go, rust and Clj -
 
 [Gists](https://gist.github.com/federico-cagliero) 🏮
 
