@@ -1,6 +1,6 @@
+<!--
 <a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="240" /></a>
-
-Hi, there!
+-->
 
 Here's a _fullstack web dev_ based in Torino - Italy
 
