@@ -15,7 +15,7 @@ Here's a **fullstack** _web dev_ based in Torino - Italy, and here you find some
 
 ## What's more !?
 
-Below, some simple code- related to one thing I am usually engaged on, so "scripting & shells" -
+Below, some simple code- related to one thing I am _also_ engaged on, so "scripting & shells" -
 
 [Gists](https://gist.github.com/federico-cagliero) 🏮
 
