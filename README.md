@@ -10,8 +10,8 @@ Here's a _fullstack web dev_ based in Torino - Italy, and here you find some inf
 * I have a **crush** on programming & languages, for that I know/use a few of them !
 * I have being delivering j2ee devOps - data engineering and fullstack web projects since around 2k.
 * I prefer "composition" over "ihneritance" - and know some "patterns @ large" -
-* I like to apply new tech. things, and I am _specifically_ keen on Agile/Lean methodologies
-* I am usually quite busy, though - these days I tend to _focus_ on Go, rust and Clj - and where possible TDD/BDD -
+* I like to apply new tech. things, and I am _specifically_ keen on Agile/Lean methodologies, plus TDD/BDD -
+* I am usually quite busy, though - these days I tend to _focus_ on Go, rust and Clj -
 
 ## What's more !?
 
