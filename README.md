@@ -1,44 +1,28 @@
-<!--
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="240" /></a>
--->
+# About
 
-Here's a _fullstack web dev_ based in Torino - Italy
+Here's a _fullstack web dev_ based in Torino - Italy, and here you find some info related to my professional -
 
-I like to _apply_ new tech. things, and I am keen on Agile/Lean methodologies, these days I have a _focus_ on Go, rust and Clj -
-
-[Gists](https://gist.github.com/federico-cagliero) 🏮
+<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="230" /></a>
 
 
+# A few key _points_
 
-<!--
+* I have a **crush** on programming & languages, for that I know/use a few of them !
+* I have being delivering j2ee devOps - data engineering and fullstack web projects since around 2k.
+* I prefer "composition" over "ihneritance" - and know some "patterns @ large" -
+* I like to apply new tech. things, and I am _specifically_ keen on Agile/Lean methodologies
+* I am usually quite busy, though - these days I tend to _focus_ on Go, rust and Clj - and where possible TDD/BDD -
 
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="180" /></a>
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/74/0b/11/740b112f5fd01acea8d1e87a6788ac14.jpg" height="180" /></a>
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/97/c0/ba/97c0ba9a4bceb1a4e6c8622da10a3e0c.jpg" height="180" /></a>
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/ee/5d/3f/ee5d3f63dc0aa310042dfa02012bb42c.jpg" height="180" /></a>
+## What's more !?
 
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/1a/e3/ac/1ae3aceae553b6f45b36d2be9e233a78.jpg" height="180" /></a>
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/c6/e3/a7/c6e3a7a69777f106b6ae1c1ce027a655.jpg" height="180" /></a>
-<a href="https://en.wikipedia.org/wiki/Turin"><img src="https://i.pinimg.com/564x/24/5a/4b/245a4babe0766aac5cdc4c26e5faff06.jpg" height="180" /></a>
--->
-
-<!--
-
-### About
-
-Actually, an _expert_ in fullstack web dev - wide IT architecture skills, keen on Open source, _especially_ GNU/Linux - 
-
-I have a specialty in (and applied) a lot of programming languages, eg: php, java, Scala, perl (long ago! OO, logs analytics, functional), python (web/data) and js/es6+.
-
-These days, I am "learning" something else, refining my know-how related to Go, rust and Kotlin -
-
-Skills: 24x7, devOps (j2ee) and big-data projects
-
-I like learning new tech. related things, and I am keen on Agile/Lean methodologies.
+Below, some simple code- related to one thing I am usually engaged on, so "scripting"
 
 [Gists](https://gist.github.com/federico-cagliero) 🏮
 
-first edited @ june 3, 2020 -
+## Nice things to come
 
-cheers!
--->
+There'll be some **actual** source code, and _ideally_ a better publishing workflow for my tech. Blog-
+
+Good luck !
+
+@ Nov 6th, 2021 -
