@@ -7,7 +7,7 @@ Here's a **fullstack** _web dev_ based in Torino - Italy, and here you find some
 
 # A few key _points_
 
-* have a **crush** on programming & languages, for that I know/use a few of them !
+* have a **focus** on programming & languages, for that I know/use a few of them !
 * delivering j2ee devOps - data engineering and fullstack web projects since around 2k.
 * prefer "composition" over "ihneritance" - and know some "patterns @ large" -
 * like to apply new tech. things, and I am _specifically_ keen on Agile/Lean methodologies, plus TDD/BDD -
