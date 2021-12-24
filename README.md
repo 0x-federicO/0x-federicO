@@ -16,7 +16,7 @@ A fullstack web dev, living in Torino - Italy.
 
 Here you have some simple scripting code, organized in [Gists](https://gist.github.com/federico-cagliero) 🏮
 
-### TODO
+## Nice things ongoing (to come, todo)
 
 * Since a a few months, working on the rewrite of a few GNU tools for "parallel" +OpenMPI using Go and/or Rust -
 * Have been _noodling_ with Clj and [Overtone](http://overtone.github.io/) -
