@@ -2,8 +2,8 @@
 
 ### Nice things to come
 
-There'll be some **actual** source code, and _ideally_ a better publishing workflow for my tech. Blog-
-
-That's it !
+* Since a while I am "recoding" a few GNU tools for "parallel" +OpenMPI using Go, rust, C++ and noodling with Clj and overtone -
+* Also, I am going to publish some workflow tools useful for TUMBLR tech. blogging -
+* What else !?
 
 @ Dec 24th, 2021 -
