@@ -4,7 +4,6 @@ A fullstack web dev, living in Torino - Italy.
 
 <a href="https://i.pinimg.com/564x/b6/df/e3/b6dfe39ad89ba6cba44fa01fe54d2cbe.jpg"><img src="https://i.pinimg.com/564x/b6/df/e3/b6dfe39ad89ba6cba44fa01fe54d2cbe.jpg" height="240"/></a>
 <a href="https://i.pinimg.com/564x/2f/63/d4/2f63d4021dff0725cb3c2e93dfa77de4.jpg"><img src="https://i.pinimg.com/564x/2f/63/d4/2f63d4021dff0725cb3c2e93dfa77de4.jpg" height="240"/></a>
-<a href="https://i.pinimg.com/564x/1d/2b/43/1d2b43e31238b814faf3bbe4010d010e.jpg"><img src="https://i.pinimg.com/564x/1d/2b/43/1d2b43e31238b814faf3bbe4010d010e.jpg" height="240"/></a>
 
 ## Key facts
 
