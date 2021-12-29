@@ -3,7 +3,7 @@ At this point, a few work duties ongoing - anyway, keen scala, go, Clj - for the
 1. t.H.i.n.K
 2. m.a.K.e
 3. b.R.e.a.K.
-4. (repeat)tttttttt
+4. (r/e/p/e/a/t) - "ttttttt"
 
 #### A few things ongoing/come
 
