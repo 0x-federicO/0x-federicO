@@ -7,5 +7,5 @@ At this point, a few duties  ongoing - keen scala, go, Clj - for the Web, js 202
 
 #### A few things ongoing/come -
 
-* rewrite gnu tools for parallel +openMpi
+* rewriting *some* gnu tools for parallel +openMpi
 * overtone +Clj
