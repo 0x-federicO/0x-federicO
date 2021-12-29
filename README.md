@@ -6,13 +6,13 @@ A fullstack web dev, living in Torino - Italy.
   <img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="270" />
 </a>
 
-## Key facts
+## A few key facts
 
 * I am keen on programming languages, for that I know a few of them, including scala, Go and Clj - GNU and "code security" 
 * I "delivered" to a few java/JS (devOps), big-data and 24x7 web projects, in the past couple decades
 * I like - and applied - Agile and Lean methodologies, eg. SCRUM -
 * I have a specialty in Perl (not only scripting) and functional programming -
-* I think IT/CS is going to change a lot fwd/backward, which is quite "weird" and strange, eheh
+* If asked, I'd say IT/CS is going to change a lot fwd/backward, which is quite "weird" and strange, eheh
 
 Here you have some simple scripting code, organized in [Gists](https://gist.github.com/0x-repo) 🏮
 
