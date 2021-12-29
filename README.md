@@ -12,7 +12,7 @@ A fullstack web dev, living in Torino - Italy.
 * I have a specialty in Perl (not only scripting) and functional programming -
 * I think IT/CS is going to change a lot fwd/backward, which is quite "weird" and strange, eheh
 
-Here you have some simple scripting code, organized in [Gists](https://gist.github.com/federico-cagliero) 🏮
+Here you have some simple scripting code, organized in [Gists](https://gist.github.com/0x-repo) 🏮
 
 ## Nice things ongoing (to come, todo)
 
