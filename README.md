@@ -3,7 +3,7 @@
 A fullstack web dev, living in Torino - Italy.
 
 <a href="https://en.wikipedia.org/wiki/Turin">
-  <img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="350" />
+  <img src="https://i.pinimg.com/564x/36/c0/08/36c008ebb4f2cf418cc5d94a8c0d32b9.jpg" height="230" />
 </a>
 
 ## Key facts
