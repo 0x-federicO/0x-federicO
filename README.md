@@ -1,4 +1,4 @@
-At this point, a few duties ongoing - keen about scala, go, Clj - for the Web, js 2020-21 .
+At this point, a few duties ongoing - keen on scala, go, Clj - for the Web, js 2020-21 .
 
 1. t.H.i.n.K
 2. m.a.K.e
