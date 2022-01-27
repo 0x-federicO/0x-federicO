@@ -1,9 +1,9 @@
-At this point, some duties ongoing - keen on scala, Go, clj - for the Web, js 2020-21 .
+At this point, I have some _work_ duties ongoing - keen on scala, Go, clj - for the Web, js 2020-21 .
 
-1. Think
-2. Make
-3. Break
-4. Repeat
+1. Think - 💭
+2. Make - 🧑🏽‍💻
+3. Break - ⏳
+4. Repeat - 🔃
 
 #### A few things ongoing/todo -
 
