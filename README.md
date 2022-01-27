@@ -7,7 +7,7 @@ At this point, some duties ongoing - keen on scala, Go, clj - for the Web, js 20
 
 #### A few things ongoing/todo -
 
-* shells: [Gists](https://gists.github.com/0x-federicO) 🏮
+* shells: [Gists](https://gists.github.com/0x-narji) 🏮
 * rewriting *some* GNU tools for parallel +openMPI
 * overtone +Clj
 
