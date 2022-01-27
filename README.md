@@ -8,7 +8,7 @@ At this point, I have some _work_ duties ongoing - keen on scala, Go, clj - for 
 
 #### A few things ongoing/todo -
 
-* shells: [Gists](https://gists.github.com/0x-narji) 🏮
+* here, a few [Gists](https://gists.github.com/0x-narji) 🏮
 * rewriting *some* GNU tools for parallel +openMPI
 * overtone +Clj
 
