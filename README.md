@@ -1,9 +1,10 @@
 At this point, I have some _work_ duties ongoing - keen on scala, Go, clj - for the Web, js 2020-21 .
 
-1. Think - 💭
-2. Make - 🧑🏽‍💻
-3. Break - ⏳
-4. Repeat - 🔃
+- ✏️ - design 
+- 💭 - think
+- 🧑🏽‍💻 - make
+- ⏳ - break
+- 🔃 - repeat
 
 #### A few things ongoing/todo -
 
@@ -12,6 +13,6 @@ At this point, I have some _work_ duties ongoing - keen on scala, Go, clj - for 
 * overtone +Clj
 
 <!---
-0x-federicO/0x-federicO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+0x-narji/0x-narji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
