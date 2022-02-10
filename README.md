@@ -1,4 +1,4 @@
-At this point, I have some _work_ duties ongoing - keen on scala, Go, clj - for the Web, js 2020-21 .
+At this point, a few _work_ duties ongoing - keen on perl, Go, scala, Clj - for the Web, js 2020-21 .
 
 - ✏️ - design 
 - 💭 - think
@@ -13,6 +13,6 @@ At this point, I have some _work_ duties ongoing - keen on scala, Go, clj - for 
 * overtone +Clj
 
 <!---
-0x-narji/0x-narji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+f-klr/f-klr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
