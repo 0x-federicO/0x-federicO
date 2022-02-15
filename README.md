@@ -2,7 +2,7 @@ At this point, a few _work_ duties ongoing - keen on js, Go, scala, Clj - for th
 
 #### A few things ongoing/todo -
 
-* here, a few [Gists](https://gists.github.com/f-klr) 🏮
+* here, a few [Gists](https://gists.github.com/0xlz5) 🏮
 * rewriting *some* GNU tools for parallel +openMPI
 * overtone +Clj
 
