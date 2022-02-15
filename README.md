@@ -1,10 +1,4 @@
-At this point, a few _work_ duties ongoing - keen on perl, Go, scala, Clj - for the Web, js 2020-21 .
-
-- ✏️ - design 
-- 💭 - think
-- 🧑🏽‍💻 - make
-- ⏳ - break
-- 🔃 - repeat
+At this point, a few _work_ duties ongoing - keen on js, Go, scala, Clj - for the Web -
 
 #### A few things ongoing/todo -
 
