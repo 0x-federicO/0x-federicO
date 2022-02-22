@@ -3,7 +3,7 @@ At this point, a few _work_ duties ongoing - keen on js, Go, scala, Clj - for th
 #### A few things ongoing/todo -
 
 * here, a few [Gists](https://gists.github.com/0xlz5) 🏮
-* rewriting *some* GNU tools for parallel +OpenMP (eg. <a href="https://github.com/boostorg">boost</a>)
+* rewriting *some* GNU tools for parallel +OpenMP (eg. <a href="https://boost.org">boost</a>)
 * <a href="https://overtone.github.io">Overtone</a> +Clj
 
 
