@@ -14,7 +14,7 @@
 - [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop -
 
 
-Also, I occasionally _publish_ a few [Gists](https://gists.github.com/0xlz5), usually "_tricky_" scripts, and I publish to a Tech. [BLOG](https://high-order-coding.tumblr.com/) about functional, scripting and HPC 🏮
+Also, I occasionally _publish_ a few [Gists](https://gists.github.com/0xlz5), usually "_tricky_" scripts, and I publish to a Tech. [Blog](https://high-order-coding.tumblr.com/) about functional, scripting and HPC 🏮
 
 That's it !
 
