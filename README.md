@@ -11,10 +11,12 @@
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - lightweight, w/ first-class functions !
 - [Scala](https://scala-lang.org/) - object-oriented and functional, yet very concise -
 - [Go](https://go.dev/doc/effective_go) - concurrency +fun @ scale !
-- [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop -
+- [Clojure](https://clojure.org/) - a functional programming language, seamless Java interop -
 
 
-Also, I occasionally _publish_ a few [Gists](https://gists.github.com/0xlz5), usually "_tricky_" scripts, and I publish to a tech. [Blog](https://high-order-coding.tumblr.com/) about functional, scripting and HPC 🏮
+Also, I occasionally _publish_ a few [Gists](https://gists.github.com/0xlz5), usually "_tricky_" scripts, and I publish to a tech. [Blog](https://high-order-coding.tumblr.com/) about functional, scripting and HPC
+
+🏮
 
 That's it !
 
