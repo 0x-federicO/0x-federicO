@@ -13,11 +13,6 @@
 - [Go](https://go.dev/doc/effective_go) - concurrency +fun @ scale !
 - [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop -
 
-
-### More info
-
-a few added value tech. info [here](./ADDED-VALUE.md) -
-
 That's it !
 
 
