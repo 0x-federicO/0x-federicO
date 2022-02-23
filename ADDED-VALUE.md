@@ -1,4 +1,4 @@
-Here a few **professional** interests, that I already **applied** and/or I am applying in dev (+prod) environments -
+Here a few professional **interests**, that I already **applied** and/or I am applying in dev (+prod) environments -
 
 ### Languages
 
