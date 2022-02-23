@@ -17,9 +17,9 @@
 
 These things, are what I am _exploring_ (thus, also evaluating) - since - 2018/19, and that - for my own _professional_ tech. **culture**:
 
-- [Rust](https://doc.rust-lang.org/nomicon/) - The Dark Arts of Unsafe Rust ! 🤖
 - [ELM](https://elm-lang.org/) - A delightful language for reliable web applications. 🌅
 - [Reason](http://reasonml.github.io/) - Simple, fast and quality type safe code, using _JS_ and _OCaml_ ⛔️
+- [Rust](https://doc.rust-lang.org/nomicon/) - The Dark Arts of Unsafe Rust ! 🤖
 
 ### A few _personal_ projects (ongoing/todo) -
 
