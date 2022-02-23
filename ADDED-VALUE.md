@@ -1,6 +1,6 @@
-## Here a few **professional** interests, that I already **applied** and/or I am applying in dev (+prod) environments -
+# Here a few **professional** interests, that I already **applied** and/or I am applying in dev (+prod) environments -
 
-### Languages
+## Languages
 
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - lightweight, w/ first-class functions !
 - [Scala](scala-lang.org/) - object-oriented and functional, yet very concise -
@@ -13,7 +13,7 @@ These is what I am just _exploring_ (thus, also evaluating) - since - 2018/19, a
 
 - [ELM](https://elm-lang.org/) - A delightful language for reliable web applications. 🌅
 - [Reason](http://reasonml.github.io/) - Simple, fast and quality type safe code, using _JS_ and _OCaml_ ⛔️
-- [Rust](https://doc.rust-lang.org/nomicon/) - The Dark Arts of Unsafe Rust ! 🤖
+- [Rust](https://doc.rust-lang.org/nomicon/) - The Dark Arts of "Unsafe" Rust ! 🤖
 
 ## A few _personal_ projects (ongoing/todo) -
 
