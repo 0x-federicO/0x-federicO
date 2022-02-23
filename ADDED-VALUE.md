@@ -1,4 +1,4 @@
-Here a few **professional** interests, that I already **applied** and/or I am applying in dev/prod environments -
+## Here a few **professional** interests, that I already **applied** and/or I am applying in dev (+prod) environments -
 
 ### Languages
 
@@ -7,7 +7,7 @@ Here a few **professional** interests, that I already **applied** and/or I am ap
 - [Go](https://go.dev/doc/effective_go) - concurrency +fun @ scale !
 - [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop - 🖌
 
-### A few _topics I like_ - actually related to duties' sake !
+## A few _topics I like_ - actually related to duties' sake !
 
 These is what I am just _exploring_ (thus, also evaluating) - since - 2018/19, and that - for my own _professional_ tech. **culture**:
 
@@ -15,9 +15,9 @@ These is what I am just _exploring_ (thus, also evaluating) - since - 2018/19, a
 - [Reason](http://reasonml.github.io/) - Simple, fast and quality type safe code, using _JS_ and _OCaml_ ⛔️
 - [Rust](https://doc.rust-lang.org/nomicon/) - The Dark Arts of Unsafe Rust ! 🤖
 
-### A few _personal_ projects (ongoing/todo) -
+## A few _personal_ projects (ongoing/todo) -
 
 - I am _rewriting_ a few GNU tools for parallel, +OpenMP (eg. <a href="https://theboostcpplibraries.com/parallel-programming">Boost.MPI</a>) 💨
 - <a href="https://overtone.github.io">Overtone</a> +Clj - collaborative music production 🎶
 
-Also, I occasionally _publish_ a few [Gists](https://gists.github.com/0xlz5), usually complex "_scripts_", and I maintain a Tech. [BLOG](high-order-coding.tumblr.com/) about functional, scripting and HPC 🏮
+That's it -
