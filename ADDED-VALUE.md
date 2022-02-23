@@ -14,4 +14,3 @@ These is what I am just _exploring_ (thus, also evaluating) - since - 2018/19, a
 - [ELM](https://elm-lang.org/) - A delightful language for reliable web applications. 🌅
 - [Reason](http://reasonml.github.io/) - Simple, fast and quality type safe code, using _JS_ and _OCaml_ ⛔️
 - [Rust](https://doc.rust-lang.org/nomicon/) - The Dark Arts of Unsafe Rust ! 🤖
-
