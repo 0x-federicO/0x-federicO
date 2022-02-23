@@ -7,7 +7,7 @@ Here a few professional **interests**, that I already **applied** and/or I am ap
 - [Go](https://go.dev/doc/effective_go) - concurrency +fun @ scale !
 - [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop -
 
-### A few _topics I like_ -
+### A few topics I like -
 
 These is what I am just _exploring_ (thus, also evaluating) - since - 2018/19, and that - for my own _professional_ tech. **culture**:
 
