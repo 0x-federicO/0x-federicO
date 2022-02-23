@@ -9,7 +9,7 @@
 ### Languages
 
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - lightweight, w/ first-class functions !
-- [Scala](scala-lang.org/) - object-oriented and functional, yet very concise -
+- [Scala](https://scala-lang.org/) - object-oriented and functional, yet very concise -
 - [Go](https://go.dev/doc/effective_go) - concurrency +fun @ scale !
 - [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop -
 
