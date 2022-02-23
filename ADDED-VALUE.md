@@ -1,11 +1,13 @@
+<img src="https://i.pinimg.com/564x/21/1f/93/211f936681dc43bf876e241f8525c258.jpg" align="right" height="270px" style="border:1px solid black;border-bottom:20px solid black;" />
+
 Here a few professional **interests**, that I already **applied** and/or I am applying in dev (+prod) environments -
 
-### Languages
+### Programming
 
 - [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - lightweight, w/ first-class functions !
 - [Scala](scala-lang.org/) - object-oriented and functional, yet very concise -
 - [Go](https://go.dev/doc/effective_go) - concurrency +fun @ scale !
-- [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop - 🖌
+- [Clojure](https://clojure.org/) - a functional programming language, seemless Java interop -
 
 ### A few _topics I like_ - actually related to work duties' sake !
 
