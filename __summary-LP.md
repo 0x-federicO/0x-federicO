@@ -1,4 +1,4 @@
-## A few points, about my professional - with some nice icons.
+## Key points, about my professional - w/ some nice icons.
 
 - Been working with web tech. for 24x7 platforms since before 2k - 🌐
 - I like code opt. and algorithms, and graphs - 🧘🏼‍💻
