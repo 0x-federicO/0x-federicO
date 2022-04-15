@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/564x/21/1f/93/211f936681dc43bf876e241f8525c258.jpg" align="right" height="270px" style="border:1px solid black;border-bottom:20px solid black;" />
 
-## To keep it short !
+## To keep it simple.
 
 - At the moment, I have a few work duties ongoing
 - I am usually programming for the Web, using JS, php or Python -
